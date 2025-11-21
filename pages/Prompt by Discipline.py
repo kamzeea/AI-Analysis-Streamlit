@@ -1,4 +1,4 @@
-# ==================== PAGE 2: PROMPTS BY DISCIPLINE ====================
+# ==================== PAGE 3: PROMPTS BY DISCIPLINE ====================
 import streamlit as st
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -6,7 +6,7 @@ import seaborn as sns
 import numpy as np
 
 
-st.set_page_config(page_title="Dataset Analysis Dashboard") #page title
+st.set_page_config(page_title="Prompt by Discipline") #page title
 
 sns.set(style="whitegrid", context="talk") #seaborn - visual appearance of plots
 
