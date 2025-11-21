@@ -1,3 +1,4 @@
+# ==================== PAGE 4: SATISFACTION RATING ANALYSIS ====================
 import streamlit as st
 import matplotlib.pyplot as plt
 import pandas as pd
