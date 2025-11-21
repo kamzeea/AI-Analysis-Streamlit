@@ -1,4 +1,4 @@
-# ==================== PAGE 4: STUDENT LEVEL ANALYSIS ====================
+# ==================== PAGE 6: STUDENT LEVEL ANALYSIS ====================
 import streamlit as st
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -6,7 +6,7 @@ import seaborn as sns
 import numpy as np
 
 
-st.set_page_config(page_title="Dataset Analysis Dashboard") #page title
+st.set_page_config(page_title="Student Level Analysis") #page title
 
 sns.set(style="whitegrid", context="talk") #seaborn - visual appearance of plots
 
