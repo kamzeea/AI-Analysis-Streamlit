@@ -5,7 +5,7 @@ import seaborn as sns
 import numpy as np
 
 
-st.set_page_config(page_title="Dataset Analysis Dashboard") #page title
+st.set_page_config(page_title="Dataset Overview") #page title
 
 sns.set(style="whitegrid", context="talk") #seaborn - visual appearance of plots
 
