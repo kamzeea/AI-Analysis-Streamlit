@@ -1,4 +1,4 @@
-# ==================== PAGE 5: OUTCOME & USAGE ANALYSIS ====================
+# ==================== PAGE 2: OUTCOME & USAGE ANALYSIS ====================
 
 import streamlit as st
 import matplotlib.pyplot as plt
@@ -7,7 +7,7 @@ import seaborn as sns
 import numpy as np
 
 
-st.set_page_config(page_title="Dataset Analysis Dashboard") #page title
+st.set_page_config(page_title="Outcome & Usage") #page title
 
 sns.set(style="whitegrid", context="talk") #seaborn - visual appearance of plots
 
