@@ -5,7 +5,7 @@ import seaborn as sns
 import numpy as np
 
 # Page config & styling
-st.set_page_config(page_title="Student Satisfaction Analysis Dashboard", layout="wide")
+st.set_page_config(page_title="Session Correlation", layout="wide")
 sns.set_style("whitegrid")
 
 # Cache the data
