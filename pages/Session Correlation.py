@@ -1,3 +1,5 @@
+# ==================== PAGE 5: SESSION CORRELATION ====================
+
 import streamlit as st
 import matplotlib.pyplot as plt
 import pandas as pd
